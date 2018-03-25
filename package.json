@@ -1,0 +1,28 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "pictionary !!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kets99/Pictionary.git"
+  },
+  "author": "kets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kets99/Pictionary/issues"
+  },
+  "homepage": "https://github.com/kets99/Pictionary#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "install": "^0.11.0",
+    "nodemon": "^1.17.2",
+    "npm": "^5.8.0"
+  }
+}
